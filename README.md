@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lukáš Bečvář</h1>
 <h3 align="center">PHP, Java, idk.. Developer</h3>
 
-- 🔭 I’m currently working on [Everything](https://becvar.xyz/)
+- 🔭 I’m currently working on [Everything](https://becvold.xyz/)
 
-- 🌱 I’m currently learning **Golang, TypeScript**
+- 🌱 I’m currently learning **Dart**
 
 - 📫 How to reach me **becvarlukas99@gmail.com**
-
-- ⚡ Fun fact **I'm demented**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
