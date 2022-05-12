@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Dart**
 
-- 📫 How to reach me **becvarlukas99@gmail.com**
+- 📫 How to reach me **lukas@becvold.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
