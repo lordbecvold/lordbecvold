@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukáš Bečvář</h1>
 
- - 🌱 I’m currently learning **Dart, Golang**
  - 👨‍💻 All of my projects are available on [https://becvar.xyz/projects](https://becvar.xyz/projects)
  - 📫 How to reach me **lukas@becvar.xyz**
 
