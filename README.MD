@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukáš Bečvář</h1>
-<h3 align="center">Backend developer</h3>
+<h2 align="center">Backend developer</h2>
 
  - 👨‍💻 All of my projects are available on [https://becvar.xyz/projects](https://becvar.xyz/projects)
  - 📫 How to reach me **lukas@becvar.xyz**
