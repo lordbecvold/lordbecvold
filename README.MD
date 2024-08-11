@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lukáš Bečvář</h1>
 
- - 👨‍💻 All of my projects are available on [https://becvar.xyz/projects](https://becvar.xyz/projects)
+ - 👨‍💻 All my projects are available on [https://becvar.xyz/projects](https://becvar.xyz/projects)
  - 📫 How to reach me **lukas@becvar.xyz**
 
 ### Statistics
