@@ -4,20 +4,6 @@
  - 👨‍💻 All my projects are available on [https://becvar.xyz/projects](https://becvar.xyz/projects)
  - 📫 How to reach me **lukas@becvar.xyz**
 
-### Statistics
-<p align="center">
-  <a href="https://github.com/lordbecvold">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lordbecvold&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/lordbecvold">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lordbecvold&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lordbecvold&theme=dark&hide_border=true"/>
-</p>
-
 ###
 <div align="center">
   <a href="https://www.youtube.com/channel/UCcALaaQqdBlcR4-tGxavCvQ" target="_blank">
@@ -33,3 +19,14 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+### Statistics
+<p align="center">
+  <a href="https://github.com/lordbecvold">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lordbecvold&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/lordbecvold">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lordbecvold&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
